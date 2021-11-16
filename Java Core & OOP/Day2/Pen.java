@@ -1,4 +1,4 @@
-package variables.Day2_OOP;
+package Day2;
 
 public class Pen {
 

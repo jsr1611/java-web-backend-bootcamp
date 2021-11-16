@@ -5,7 +5,7 @@ Definition:
 Accommodate user account properties such as name, emailAddress, password, country, phoneNumber, etc.
 
  */
-package OOP.Day4;
+package Day4;
 
 public class Contact {
     private String firstName;

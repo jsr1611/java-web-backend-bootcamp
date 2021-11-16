@@ -3,7 +3,7 @@ Author: Jumanazar Saidov
 Date: 2021-10-27
 
  */
-package variables.Day2_OOP;
+package Day2;
 
 public class Time {
     private int hour;

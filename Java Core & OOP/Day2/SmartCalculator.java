@@ -6,7 +6,7 @@ Aqlli kalkulyator yasang, bunda foydalanuvchi kiritgan stringdagi misolda qavs, 
 amallarni ham aniqlab natija chiqasin.
 Masalan: 3*8+4*(5+6/7) ....
  */
-package variables.Day2_OOP;
+package Day2;
 
 public class SmartCalculator {
     private double result;

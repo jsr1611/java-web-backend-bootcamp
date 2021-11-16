@@ -6,7 +6,7 @@ Accommodate Email account properties such as message, contact, stack of inbox, o
 
  */
 
-package OOP.Day4;
+package Day4;
 
 import java.util.Stack;
 

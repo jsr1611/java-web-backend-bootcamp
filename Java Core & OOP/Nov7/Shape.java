@@ -1,4 +1,4 @@
-package OOP.Nov7;
+package Nov7;
 
 public abstract class Shape {
     private String color;

@@ -1,4 +1,4 @@
-package OOP.Day4.Overloading;
+package Day4.Overloading;
 
 /**
  * Calculate area and perimeter for different figures using polymorphism

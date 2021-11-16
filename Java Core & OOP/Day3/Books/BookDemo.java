@@ -1,4 +1,4 @@
-package variables.Day3_OOP.Books;
+package Day3.Books;
 
 public class BookDemo {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ Author: Jumanazar Saidov
 Date: 2021.11.01
 Definition: Overriding in OOP.
  */
-package OOP.Day4.Overriding;
+package Day4.Overriding;
 
 /**
  * Redhead Child of Duck

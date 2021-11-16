@@ -1,4 +1,4 @@
-package variables.OOP_Practice;
+package Practice;
 
 // Author: Jumanazar Saidov
 /*

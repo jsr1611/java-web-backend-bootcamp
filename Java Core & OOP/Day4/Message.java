@@ -5,7 +5,7 @@ Definition:
 Accommodate email message related properties such as subject, message itself, sender, receiver(s), readStatus, etc.
 
  */
-package OOP.Day4;
+package Day4;
 
 import java.util.Arrays;
 

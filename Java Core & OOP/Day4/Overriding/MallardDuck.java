@@ -4,7 +4,7 @@ Date: 2021.11.01
 Definition: Overriding in OOP.
  */
 
-package OOP.Day4.Overriding;
+package Day4.Overriding;
 
 /**
  * Mallard Child of Duck

@@ -4,7 +4,7 @@ Date: 2021-10-27
 
  */
 
-package variables.Day2_OOP;
+package Day2;
 
 public class Account {
     private int accountNumber;

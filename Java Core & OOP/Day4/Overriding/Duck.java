@@ -5,7 +5,7 @@ Committed to clean code!
 Definition: Usage of Overriding in OOP.
  */
 
-package OOP.Day4.Overriding;
+package Day4.Overriding;
 
 /**
  * Parent class Duck

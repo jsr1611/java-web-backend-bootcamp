@@ -4,7 +4,7 @@ Date: 2021.11.01
 Committed to clean code!
 Definition: Calculator overloaded! can do basic operations (add, sub, mul, div, abs, pow) on any kind of user input
  */
-package OOP.Day4.Overloading;
+package Day4.Overloading;
 
 public class Calculator {
 

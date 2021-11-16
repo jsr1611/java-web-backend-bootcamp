@@ -1,4 +1,4 @@
-package variables.Day3_OOP.Books;
+package Day3.Books;
 
 public class EBook extends Book{
     private String downloadPage;

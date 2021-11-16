@@ -1,4 +1,4 @@
-package variables.OOP_Practice;
+package Practice;
 
 public class ContactsManager {
     Contact[] myFriends;

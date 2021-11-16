@@ -5,7 +5,7 @@ Committed to clean code!
 Definition:
 Testing functionalities of the Calculator methods.
  */
-package OOP.Day4.Overloading;
+package Day4.Overloading;
 
 public class CalcDemo {
     public static void main(String[] args) {

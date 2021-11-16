@@ -1,4 +1,4 @@
-package OOP.Day4.Overriding;
+package Day4.Overriding;
 
 public class Circle extends Figure{
     private Integer radius;

@@ -5,7 +5,7 @@ Definition:
 Main email service related methods collection
  */
 
-package OOP.Day4;
+package Day4;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

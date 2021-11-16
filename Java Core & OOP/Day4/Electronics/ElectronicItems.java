@@ -1,4 +1,4 @@
-package variables.Day3_OOP.Books.Electronics;
+package Day4.Electronics;
 
 public class ElectronicItems {
     protected String name;

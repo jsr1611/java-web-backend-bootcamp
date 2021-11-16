@@ -1,4 +1,4 @@
-package variables.Day1_OOP;
+package Day1;
 
 /*
 

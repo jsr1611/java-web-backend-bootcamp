@@ -1,4 +1,4 @@
-package variables.Day2_OOP;
+package Day2;
 
 public class PenDemo {
     public static void main(String[] args) {

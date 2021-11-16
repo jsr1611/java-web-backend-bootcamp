@@ -6,7 +6,7 @@ Definition:
 Implementation class of the Email Application.
  */
 
-package OOP.Day4;
+package Day4;
 
 import java.text.SimpleDateFormat;
 import java.util.*;
