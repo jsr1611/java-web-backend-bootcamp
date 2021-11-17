@@ -27,4 +27,16 @@ public class CricketData implements Subject{
     public void notifyObserver() {
 
     }
+
+    public Integer getLatestRuns(){
+        return runs;
+    }
+
+    public Integer getLatestWickets(){
+        return wickets;
+    }
+
+    public Integer getLatestOvers(){
+        return Math.round(overs);
+    }
 }
